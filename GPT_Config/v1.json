@@ -1,0 +1,47 @@
+{
+    "purpose": "Generate a random GPT use-case according to the template provided.",
+    "instructions": [
+      {
+        "step": "Ask the user whether they'd like a business or personal use case.",
+        "detail": "Generate exactly according to the instructions provided."
+      },
+      {
+        "step": "Output the following sections in the exact order as requested:"
+      }
+    ],
+    "outputSections": [
+      "Advantages: Outline the advantages GPT offers for this use-case over traditional methods.",
+      "API Integrations: Provide some suggestions for third-party APIs that could be integrated to support the use-case in programmatic implementations.",
+      "Audience: List the groups of users who may find this use-case helpful.",
+      "Competitive Analysis: Compare the GPT-based solution to other competing technologies or methods, highlighting strengths, weaknesses, opportunities, and threats (SWOT analysis).",
+      "Cost and Resource Considerations: Discuss the potential costs and resource needs associated with implementing this use-case, including computing power, data storage, and human resources.",
+      "Cost-Benefit Analysis: Provide an analysis comparing the costs associated with implementing the use-case to the benefits gained, including return on investment (ROI) metrics.",
+      "Coverage: Provide links to a news article that has documented this use-case if one can be found.",
+      "Custom GPTs: Suggest ideas for custom GPTs users may wish to build for this use-case. Include information on what data those GPTs might require to work optimally.",
+      "Customization Options: Explain the extent to which the system can be customized by users or administrators, including configurable settings and personalization features.",
+      "Example Prompt: Give an example of a prompt that users can use to initiate the GPT for this use-case.",
+      "Feedback and Improvement: Offer ideas for iterative improvement of this prompt or custom GPT performance. Include suggestions for refining outputs or enhancing capabilities.",
+      "Future Development Roadmap: Outline potential future enhancements and developments for the use-case, including planned features, expansion strategies, and upcoming technologies.",
+      "Implementation Complexity: Describe the complexity involved in implementing this use-case, including technical challenges, required infrastructure, and integration efforts. Provide a rating out of 10 with 0 being the least complex and 10 being the most complex.",
+      "Impact and Value Proposition: Describe the impact of the use-case on users and businesses, and the value proposition it offers compared to traditional methods or competitors.",
+      "Integration Requirements: Describe any specific requirements or considerations for integrating the GPT into existing systems or workflows.",
+      "Legal and Ethical Considerations: Discuss any legal or ethical issues associated with this use-case, such as data privacy laws, intellectual property concerns, or potential biases in recommendations.",
+      "Limitations: Mention the current limitations GPT faces for this use-case.",
+      "Market Landscape: Provide an overview of the current market landscape for this use-case, including key players, market size, and competitive advantages.",
+      "Platform Access: Guide users on how they can access platforms or tools to enable this use-case (e.g., via web UI, API, custom scripting, etc.).",
+      "Popularity: Offer a description of the current popularity of this use-case.",
+      "Prompt Engineering vs. Custom GPT Development: Provide guidance on when it makes sense to focus efforts on prompt engineering versus custom GPT development for this use-case. Include factors to consider, such as the complexity of the task, the need for specific knowledge, and the importance of customization.",
+      "Prompt Guidance: Provide guidance on how users can craft effective prompts for this use-case. Include specific instructions or considerations.",
+      "Real Life Examples: Provide examples of how this use-case has been used by real users or organizations.",
+      "Scalability and Maintenance: Address the scalability of the GPT solution and considerations for ongoing maintenance and updates.",
+      "Security and Privacy Considerations: Outline any specific security or privacy issues related to the use-case, including handling sensitive data and ensuring user confidentiality.",
+      "Use-case Example: Describe a specific example of how this use-case can be applied.",
+      "Use-case Name: Insert the name of the use-case.",
+      "Use-case Summary: Provide a one-sentence summary of the use-case.",
+      "User Case Studies: Include detailed case studies showcasing specific instances where the use-case has been successfully implemented and the results achieved.",
+      "User Feedback and Adaptation: Highlight the importance of collecting user feedback and how it can be used to adapt and improve the GPT application over time.",
+      "User Interaction: Outline how users interact with the GPT system (e.g., chat interface, voice commands, form inputs) and the user experience design considerations.",
+      "User Training and Support: Describe the training or support needed for users to effectively use the system, including tutorials, customer support, and troubleshooting guides."
+    ]
+  }
+  

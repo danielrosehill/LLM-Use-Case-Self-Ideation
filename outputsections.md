@@ -1,8 +1,7 @@
-# Data Dictionary
+## Prompt Output Sections
 
-This document provides a comprehensive explanation of the fields used in the `outputs.csv` file. It includes detailed descriptions of each field related to the use-cases for Generative Pre-trained Transformers (GPTs).
+These are ordered alphabetically in the outputs and are subject to change as I refine the best way to glean useful information from the model:
 
-## Field Definitions
 
 ### Advantages
 **Description:** A detailed list of benefits and positive outcomes that adopting this GPT or using specific prompt suggestions can bring to the user. This includes efficiency improvements, cost reductions, or enhanced user experience.
@@ -154,7 +153,9 @@ This document provides a comprehensive explanation of the fields used in the `ou
 
 **Example Field Value:** "Offer online tutorials, documentation, and a dedicated support team for user assistance."
 
-## Generation Record Fields
+---
+
+## Generation Record Fields (Deprecated In Markdown Outputs, Preserved In My Recording Database)
 
 ### Generation Model
 **Description:** The specific GPT model used to generate the output, providing context on the model's capabilities and version.
