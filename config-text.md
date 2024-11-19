@@ -1,3 +1,8 @@
+# Agent Configuration Parameters
+
+## V3
+
+```json
 {
   "purpose": "Generate a random GPT use-case according to the template provided.",
   "instructions": [
@@ -41,3 +46,4 @@
     "Coverage: Provide links to a news article that has documented this use-case if one can be found. If you cannot retrieve an output, state that no relevant coverage was found and continue with the generation."
   ]
 }
+```

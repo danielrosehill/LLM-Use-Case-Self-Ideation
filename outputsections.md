@@ -1,4 +1,4 @@
-## Prompt Output Sections
+##  Output Sections (Data Dictionary)
 
 These are ordered alphabetically in the outputs and are subject to change as I refine the best way to glean useful information from the model:
 
