@@ -1,10 +1,6 @@
+[![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-181717?logo=github&logoColor=white)](https://github.com/danielrosehill/LLM-Use-Case-Self-Ideation)
+
 # LLM Use-Cases, Self-Ideation
-
-## Overview
-
- 
-
----
 
 ## Repository Contents
 
